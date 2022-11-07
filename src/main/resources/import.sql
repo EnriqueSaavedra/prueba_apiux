@@ -1,0 +1,10 @@
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 1','2022-11-04 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 2','2022-11-05 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 3','2022-11-06 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 4','2022-11-07 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 5','2022-11-08 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 6','2022-11-09 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 7','2022-11-10 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 8','2022-11-11 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 9','2022-11-12 01:00:00',true);
+INSERT INTO tareas (descripcion,fecha_creacion,vigente) VALUES ('desc 10','2022-11-13 01:00:00',true);
